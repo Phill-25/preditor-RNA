@@ -5,6 +5,12 @@ from pybrain.datasets  import SupervisedDataSet
 from pybrain.supervised.trainers import BackpropTrainer
 from pybrain.structure.modules import SoftmaxLayer
 from pybrain.tools.shortcuts import buildNetwork
+from pybrain.tools.customxml import NetworkWriter
+from pybrain.tools.customxml import NetworkReader
+
+# para salvar uma rede
+# NetworkWriter.writeToFile(net, 'filename.xml')
+# net = NetworkReader.readFrom('filename.xml')
 
 rede = buildNetwork(2, 3, 1)
 #

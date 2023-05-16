@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04615aef-7586-48e0-9795-2ac09eb910b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/errors" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/preditor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste_rna.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste_rna.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +18,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preditor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-176">
-              <caret line="34" column="18" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="18" />
+            <state relative-caret-position="237">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/errors">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1804">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teste_rna.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -58,9 +69,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/teste1.py" />
-        <option value="$PROJECT_DIR$/preditor.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/pybrain/tools/functions.py" />
         <option value="$PROJECT_DIR$/teste_rna.py" />
+        <option value="$PROJECT_DIR$/errors" />
+        <option value="$PROJECT_DIR$/preditor.py" />
       </list>
     </option>
   </component>
@@ -93,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste_rna">
+  <component name="RunManager" selected="Python.preditor">
     <configuration name="preditor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Testes py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.teste_rna" />
         <item itemvalue="Python.preditor" />
+        <item itemvalue="Python.teste_rna" />
         <item itemvalue="Python.teste_rna (1)" />
         <item itemvalue="Python.teste1" />
       </list>
@@ -211,14 +223,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="1920" y="337" width="1366" height="705" id="Run" order="2" type="WINDOWED" visible="true" weight="0.8309859" />
+      <window_info active="true" anchor="bottom" x="1920" y="337" width="1366" height="705" id="Run" maximized="true" order="2" type="WINDOWED" visible="true" weight="0.8309859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,16 +288,7 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pybrain/structure/connections/linear.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/teste_rna.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="29" lean-forward="true" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/teste_rna.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pybrain/tools/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -297,23 +299,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preditor.py">
+    <entry file="file://$PROJECT_DIR$/teste_rna.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="18" />
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste_rna.py">
+    <entry file="file://$PROJECT_DIR$/preditor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        <state relative-caret-position="237">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1804">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
